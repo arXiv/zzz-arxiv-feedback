@@ -10,11 +10,13 @@ pydocstyle = "*"
 coverage = "*"
 coveralls = "*"
 pytest = "*"
+pytest-cov = "*"
 
 [packages]
 arxiv-base = "*"
 flask = "*"
 pytz = "*"
+arxiv-feedback = {path = "."}
 
 [requires]
 python_version = "3.6"
