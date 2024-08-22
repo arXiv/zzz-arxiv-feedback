@@ -1,3 +1,6 @@
+# THIS REPOSITORY HAS BEEN ARCHIVED AS OF 2024-08-22.
+
+
 # arxiv-feedback
 
 Feedback collection, bug reports, as a pluggable Flask blueprint.
